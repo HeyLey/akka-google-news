@@ -18,7 +18,7 @@ import scala.concurrent.Future
 import scala.util.Success
 
 
-final case class Article(publishedAt: String, content: String)
+final case class Article(publishedAt: String, title: String)
 final case class News(articles: List[Article])
 
 
@@ -68,10 +68,11 @@ class NewsActor(timers: TimerScheduler[NewsActor.Command],
         var content = "No results"
         var news = post.articles
         timestamp = news(0).publishedAt
-        content = news(0).content
+        content = news(0).title
         println(timestamp + " " + tag + " " + content + "\n")
       }
-      case _ => {
+      case t => {
+        println(t)
         context.log.info("Not success", tag)
       }
     }
