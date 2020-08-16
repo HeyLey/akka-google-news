@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 206006,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "Lifehacker.com"
+    },
+    "author": "Nick Douglas",
+    "title": "Instead of Buying Bitcoin, Play This Bitcoin Trading Game",
+    "description": "I’ve lost over $300,000 worth of bitcoin so far. Now’s the bit where I’m supposed to tell you it’s all fake, and I only lost it in the cryptocurrency trading simulation game Bitcoin Flip. But no, I actually bought $400 worth of bitcoin back when it was cheap,…",
+    "url": "https://lifehacker.com/instead-of-buying-bitcoin-play-this-bitcoin-trading-ga-1826671289",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--Dq77h-xL--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/i9pblfcvortm2ojd89nq.png",
+    "publishedAt": "2018-06-08T17:30:00Z",
+    "content": "I’ve lost over $300,000 worth of bitcoin so far. Now’s the bit where I’m supposed to tell you it’s all fake, and I only lost it in the cryptocurrency trading simulation game Bitcoin Flip. But no, I a… [+1776 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifehacker.com"
+    },
+    "author": "Nick Douglas",
+    "title": "Should You Buy Bitcoin?",
+    "description": "We’ve already told you how to buy Bitcoin and other cryptocurrencies. But should you? In the video above, Coin Talk podcast hosts Aaron Lammer and Jay Caspian Kang say yes...but they have some caveats. (In further conversation, they compare buying crypto to p…",
+    "url": "https://lifehacker.com/should-you-buy-bitcoin-1826616664",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--KT3zCP3k--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/xuqcwihm4ndxx5ywj30r.jpg",
+    "publishedAt": "2018-06-07T13:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Romain Dillet",
+    "title": "Coinbase users can now withdraw Bitcoin SV following BCH fork",
+    "description": "If you’re a Coinbase user, you may have seen some new tokens on your account. The Bitcoin Cash chain split into two different chains back in November. It means that if you held Bitcoin Cash on November 15, you became the lucky owner of Bitcoin SV and Bitcoin …",
+    "url": "http://techcrunch.com/2019/02/15/coinbase-users-can-now-withdraw-bitcoin-sv-following-bch-fork/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/08/bitcoin-split-2017a.jpg?w=711",
+    "publishedAt": "2019-02-15T14:53:40Z",
+    "content": "If youre a Coinbase user, you may have seen some new tokens on your account. The Bitcoin Cash chain split into two different chains back in November. It means that if you held Bitcoin Cash on Novembe… [+1574 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Violet Blue",
+    "title": "Twitter's Bitcoin hackers had almost limitless access",
+    "description": "On Wednesday, July 15, Twitter was the target of a very public hack attack that’s still sending shockwaves across the internet. In what is a major security breach for the company, a handful of the most-followed Twitter accounts belonging to some of the world’…",
+    "url": "https://www.engadget.com/twitter-bitcoin-scam-social-engineering-hack-access-193040357.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fca68c900-c85d-11ea-b9df-6238180027a8&client=amp-blogside-v2&signature=9b0fbb183070e467429323ab75f41cbbe1c8dbc3",
+    "publishedAt": "2020-07-17T19:30:40Z",
+    "content": "Just hackers burning up 0day like it’s a fire sale\r\nImagine getting the keys to the Twitter kingdom -- access to all the account admin panels in the world. What would you do? You could grab high-valu… [+8860 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Nicole Lee",
+    "title": "Tampa teenager arrested for Twitter Bitcoin hack",
+    "description": "Authorities in Tampa, Florida have arrested a 17-year-old for being the alleged “mastermind” behind the Twitter Bitcoin hack that targeted several high-profile accounts on July 15th, 2020. His name has not been revealed due to his underage status. According t…",
+    "url": "https://www.engadget.com/teenager-arrested-twitter-bitcoin-hack-183302700.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F80319ad0-c77f-11ea-adfe-d560f6400e1e&client=amp-blogside-v2&signature=3ae5e1a0ea67905f52a03c1a851c07fc1c61bdbb",
+    "publishedAt": "2020-07-31T18:33:02Z",
+    "content": "Authorities in Tampa, Florida have arrested a 17-year-old for being the alleged “mastermind” behind the Twitter Bitcoin hack that targeted several high-profile accounts on July 15th, 2020. His name h… [+463 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Brian Barrett",
+    "title": "The 'Robo Revenge' App Makes It Easy to Sue Robocallers",
+    "description": "Mac malware, a Bitcoin mixer, and more of the week's top security news.",
+    "url": "https://www.wired.com/story/robo-revenge-apple-malware-security-news/",
+    "urlToImage": "https://media.wired.com/photos/5e471046e7120600088b2022/191:100/w_1280,c_limit/Security_robbocalls-84289419.jpg",
+    "publishedAt": "2020-02-15T14:00:00Z",
+    "content": "Just when you thought the catastrophic Equifax breach was entirely in the rearview, the Department of Justice this week charged four Chinese military hackers with the theft. That's 147.9 million peop… [+4062 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Jonathan Shieber",
+    "title": "Casa pivots to provide self-custody services to secure bitcoin",
+    "description": "Casa, a Colorado-based provider of bitcoin security services, is launching a managed service allowing customers to buy and hold their own bitcoin, rather than using an external custodian like Coinbase. “With self-custody using Casa it’s impossible to be hacke…",
+    "url": "http://techcrunch.com/2020/08/06/casa-pivots-to-provide-self-custody-services-to-secure-bitcoin/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1050523528.jpg?w=600",
+    "publishedAt": "2020-08-06T18:25:29Z",
+    "content": "Casa, a Colorado-based provider of bitcoin security services, is launching a managed service allowing customers to buy and hold their own bitcoin, rather than using an external custodian like Coinbas… [+1571 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Joyce Yang",
+    "title": "The 21-day bitcoin challenge",
+    "description": "There is a documentary series currently airing on iQiyi, China’s Netflix equivalent, about a Chinese bitcoin enthusiast who attempts to survive 21 days by merely living on 0.21 bitcoin, or $1,300, without any help or donations. He You Bing is traveling and ca…",
+    "url": "http://techcrunch.com/2018/09/16/the-21-day-bitcoin-challenge/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-16-at-8.57.40-AM.png?w=745",
+    "publishedAt": "2018-09-16T13:11:12Z",
+    "content": "There is a documentary series currently airing on iQiyi, China’s Netflix equivalent, about a Chinese bitcoin enthusiast who attempts to survive 21 days by merely living on 0.21 bitcoin, or $1,300, wi… [+8540 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Emily Dreyfuss",
+    "title": "Apple Data Downloads, A Dating App for Trump Fans, and More Security News This Week",
+    "description": "North Korean bitcoin theft, Fake FCC complaints, and more security news this week.",
+    "url": "https://www.wired.com/story/donald-trump-dating-app-exposed-data/",
+    "urlToImage": "https://media.wired.com/photos/5bca5bfab1e96429a704b9d9/191:100/pass/TrumpCouple-1009882898.jpg",
+    "publishedAt": "2018-10-20T13:00:00Z",
+    "content": "As has become an unwelcome tradition, as Friday wound down and the weekend was so close we could nearly taste it, breaking news hit. The biggest Friday night bombshell came in the form of an indictme… [+5493 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "John Biggs",
+    "title": "Abra adds twenty cryptocurrencies to its wallet app",
+    "description": "Abra, a global currency wallet that was the belle of the early Bitcoin ball, has just added twenty cryptocurrencies and fifty fiat currencies, a feature that allows you to top up and send cash and cryptocurrencies from inside the wallet. “Bitcoin, Ether, Lite…",
+    "url": "http://techcrunch.com/2018/03/15/abra-adds-twenty-cryptocurrencies-to-its-wallet-app/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/03/abra-screen-4.jpg?w=529",
+    "publishedAt": "2018-03-15T21:19:45Z",
+    "content": "Abra, a global currency wallet that was the belle of the early Bitcoin ball, has just added twenty cryptocurrencies and fifty fiat currencies, a feature that allows you to top up and send cash and cr… [+2703 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Romain Dillet",
+    "title": "Bitcoin slowly surpasses $8,000 after two months",
+    "description": "You can now buy and sell bitcoin for over $8,000 on all exchanges, and even for over $8,150 on some of the most popular ones. $8,000 is an important milestone for bitcoin after some complicated weeks. When you compare the price of bitcoin today with what it u…",
+    "url": "http://techcrunch.com/2018/07/24/bitcoin-slowly-surpasses-8000-after-two-months/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/11/bitcoin-8000.png?w=711",
+    "publishedAt": "2018-07-24T13:30:50Z",
+    "content": "You can now buy and sell bitcoin for over $8,000 on all exchanges, and even for over $8,150 on some of the most popular ones. $8,000 is an important milestone for bitcoin after some complicated weeks… [+1043 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "John Biggs",
+    "title": "Bitcoin price falls but doesn’t flatline",
+    "description": "Those not looking at the Bitcoin markets lately will either gasp or smile. Bitcoin, down from its all time high of around $19,000, is now floating at $6,785 as of this writing. To many this means that either the Bitcoin experiment is over or, to many more, th…",
+    "url": "http://techcrunch.com/2018/06/11/bitcoin-price-falls-but-doesnt-flatline/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/03/altucher-bitcoin-glitch.png?w=764",
+    "publishedAt": "2018-06-11T08:47:28Z",
+    "content": "Those not looking at the Bitcoin markets lately will either gasp or smile. Bitcoin, down from its all time high of around $19,000, is now floating at $6,785 as of this writing. To many this means tha… [+1963 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Steven Levy",
+    "title": "Google, Amazon, and Apple Have a Trillion Dollar Problem",
+    "description": "Plus: Steve Jobs' too-modest vision for Apple, the real problem with bitcoin, and the anointing of Rush Limbaugh.",
+    "url": "https://www.wired.com/story/plaintext-google-amazon-apple-big-tech-trillion-dollar-problem/",
+    "urlToImage": "https://media.wired.com/photos/5e3c93f3e601630009b7e7cb/191:100/w_1280,c_limit/Biz-drevil-MSDAUPO_EC043.jpg",
+    "publishedAt": "2020-02-07T14:00:00Z",
+    "content": "Hi again, its Steven Levy, WIREDs editor at large, with edition two of the Plaintext newsletter. Thanks for all your great comments about last weeks debut.\r\nI got a lot of questions about how this wi… [+2241 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Brian Barrett",
+    "title": "How the Alleged Twitter Hackers Got Caught",
+    "description": "Bitcoin payments and IP addresses led investigators to two of the alleged perpetrators in just over two weeks.",
+    "url": "https://www.wired.com/story/how-alleged-twitter-hackers-got-caught-bitcoin/",
+    "urlToImage": "https://media.wired.com/photos/5f246ee3888ca6bc8f78ae9d/191:100/w_1280,c_limit/Sec_twitter_1227655812.jpg",
+    "publishedAt": "2020-08-01T00:12:01Z",
+    "content": "On July 15, a Discord user with the handle Kirk#5270 made an enticing proposition. I work for Twitter, they said, according to court documents released Friday. I can claim any name, let me know if yo… [+3660 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Klint Finley",
+    "title": "After 10 Years, Bitcoin Has Changed Everything—and Nothing",
+    "description": "It all started when the pseudonymous Satoshi Nakamoto published a white paper outlining a digital currency, secured by something called the blockchain.",
+    "url": "https://www.wired.com/story/after-10-years-bitcoin-changed-everything-nothing/",
+    "urlToImage": "https://media.wired.com/photos/5bd8e9589f29d72d3c40e604/191:100/pass/bitcoin_10anni_niec.jpg",
+    "publishedAt": "2018-10-31T14:45:00Z",
+    "content": "Ten years ago today, someone using the name Satoshi Nakamoto sent an academic paper to a cryptography mailing list proposing a form of digital cash called \"Bitcoin.\" The pseudonymous Nakamoto, whose … [+5653 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Amy Guthrie",
+    "title": "Anarchy, Bitcoin, and Murder in Acapulco",
+    "description": "The once-thriving resort city of in Mexico has become a somewhat lawless place. It is, in many ways, a perfect yet imperfect place for crypto-loving anarchists to gather each year.",
+    "url": "https://www.wired.com/story/anarchy-bitcoin-and-murder-in-mexico/",
+    "urlToImage": "https://media.wired.com/photos/5c78615d43416573f9b95f07/191:100/pass/anarchy-in-acapulco_topart_red.jpg",
+    "publishedAt": "2019-03-01T12:00:00Z",
+    "content": "Its approaching midnight as hundreds of anarchists gather at the edge of the surf at a beach in Acapulco, Mexico. Monica Vallarino urges the crowd to part in half. Shes holding dozens of Gulf sea tur… [+17551 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Christine Fisher",
+    "title": "Twitter hacker was previously caught stealing a fortune in Bitcoin",
+    "description": "Graham Ivan Clark, the 17-year-old “mastermind” behind the massive Twitter breach that compromised high-profile accounts, like those belonging to Joe Biden and Elon Musk, got caught stealing hundreds of thousands of dollars worth of Bitcoins last year. Accord…",
+    "url": "https://www.engadget.com/twitter-hacker-graham-clark-stolen-bitcoin-140234512.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fe1c11890-42df-11ea-9fc7-677060cb72f6&client=amp-blogside-v2&signature=2974a9748770f53801158974991307682915bc05",
+    "publishedAt": "2020-08-03T14:02:34Z",
+    "content": "In April, the Secret Service seized 100 Bitcoins from Clark, NYT reports. Weeks later, Bennett received a letter explaining that the Secret Service had recovered 100 of his Bitcoins. The letter cited… [+884 chars]"
+  },
+  {
+    "source": {
+      "id": "wired",
+      "name": "Wired"
+    },
+    "author": "Klint Finley",
+    "title": "Bitcoin: The Complete Guide",
+    "description": "The cryptocurrency represents amazing technological advances. Bitcoin has a way to go before it's a a true replacement for, or even adjunct to, the global financial system.",
+    "url": "https://www.wired.com/story/guide-bitcoin/",
+    "urlToImage": "https://media.wired.com/photos/5a72b84844edee3a9c469541/191:100/pass/Guides_Bitcoin.jpg",
+    "publishedAt": "2018-02-01T14:26:07Z",
+    "content": "Bitcoin is a digital currency. Like other currencies, you can use it to buy things from merchants that accept it, such as Overstock.com, or, as is more often the case, hold on to it in hopes that it … [+11772 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Karissa Bell",
+    "title": "The FBI is investigating the Twitter Bitcoin hack",
+    "description": "The FBI has confirmed that it’s investigating the hack that compromised the accounts of Joe Biden, Elon Musk, Barack Obama, Kanye West and a number of other high-profile Twitter users. “The FBI is investigating the incident involving several Twitter account b…",
+    "url": "https://www.engadget.com/fbi-investigates-twitter-hack-crypto-scam-210819751.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F665bf5b0-c7a7-11ea-bf77-fd38c73c45ca&client=amp-blogside-v2&signature=35fbb76051772c8531395240d32dc65ca43d8866",
+    "publishedAt": "2020-07-16T21:08:19Z",
+    "content": "Reuters had previously reported the FBI would launch an investigation into the hack.\r\nThe FBI inquiry is now one of multiple investigations into the incident, which has drawn scrutiny from a number o… [+966 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Chris Velazco",
+    "title": "Everything we know about the Twitter Bitcoin hack",
+    "description": "Author’s note: This story was first published on 7/16/2020, and last updated on the same day. Check the Latest Updates section for the most recent developments. \r\n Engadget\r\n What happened?Early in the afternoon (Eastern time) on July 15th, a hacker -- or hac…",
+    "url": "https://www.engadget.com/everything-we-know-about-the-twitter-bitcoin-scam-hack-202447973.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5a079df0-c793-11ea-8b9b-fb9d0432f01a&client=amp-blogside-v2&signature=e1b2908f5e075d2c2bbce7f11fea92868295999d",
+    "publishedAt": "2020-07-16T20:24:47Z",
+    "content": "Most of these accounts tweeted some variant of the same message: If someone were to send Bitcoin to the address specified in the tweets during a 30-minute window, the account owner would return doubl… [+3388 chars]"
+  }
+]
+}
