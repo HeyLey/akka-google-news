@@ -52,7 +52,7 @@ class NewsActor(timers: TimerScheduler[NewsActor.Command],
     implicit val system: ActorSystem[Nothing] = context.system
     implicit val postCodec: Codec[News] = deriveCodec
 
-    val uri: String = "https://newsapi.org/v2/everything?q=" + tag + "&apiKey=" + key
+    val uri: String = s"https://newsapi.org/v2/everything?q=$tag&apiKey=$key"
 
     val response: Future[HttpResponse] = Http().singleRequest(Get(uri))
 
@@ -65,15 +65,15 @@ class NewsActor(timers: TimerScheduler[NewsActor.Command],
     news match {
       case Success(post) => {
         var timestamp = "0"
-        var content = "No results"
-        var news = post.articles
+        var content = "No results\n"
+        val news = post.articles
         timestamp = news(0).publishedAt
         content = news(0).title
-        println(timestamp + " " + tag + " " + content + "\n")
+        context.log.info(timestamp + " " + tag + " " + content + "\n")
       }
       case t => {
         println(t)
-        context.log.info("Not success", tag)
+        context.log.info("{}: Not success\n", tag)
       }
     }
   }
